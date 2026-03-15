@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="HSChartCtrl">
+      <UniqueIdentifier>{ea052a09-5b21-4119-ba86-2438f4b52979}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="仿真器">
+      <UniqueIdentifier>{edd2c23a-e0c3-41a7-bd88-b807a16d99e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HOTAS">
+      <UniqueIdentifier>{743d434e-d1df-47cb-852b-6652be77acf2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="JSBSim">
+      <UniqueIdentifier>{9be0e991-fe65-4dd9-ac41-bd1f94f75ddb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="子视图">
+      <UniqueIdentifier>{1959da1a-d1b8-401d-bf10-92e1b7113ddc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MFCApplication-jsbsim-hotas.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MFCApplication-jsbsim-hotasDoc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MFCApplication-jsbsim-hotasView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ShareVar.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartAxis.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartAxisLabel.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartBalloonLabel.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartBarSerie.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartCandlestickSerie.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartCrossHairCursor.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartCtrl.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartCursor.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartDateTimeAxis.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartDragLineCursor.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartFont.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartGanttSerie.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartGradient.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartGrid.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartLabel.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartLegend.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartLineSerie.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartLogarithmicAxis.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartMouseListener.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartPointsArray.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartPointsSerie.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartScrollBar.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartSerie.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartSerieBase.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartSeriesMouseListener.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartStandardAxis.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartString.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartSurfaceSerie.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartTitle.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\ChartXYSerie.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="HSChartCtrl\PointsOrdering.h">
+      <Filter>HSChartCtrl</Filter>
+    </ClInclude>
+    <ClInclude Include="Simulator.h">
+      <Filter>仿真器</Filter>
+    </ClInclude>
+    <ClInclude Include="SimThread.h">
+      <Filter>仿真器</Filter>
+    </ClInclude>
+    <ClInclude Include="CMyHotas.h">
+      <Filter>HOTAS</Filter>
+    </ClInclude>
+    <ClInclude Include="CMyJSBSim.h">
+      <Filter>JSBSim</Filter>
+    </ClInclude>
+    <ClInclude Include="IAT_Math.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IAT_Point3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CSysCtrlView.h">
+      <Filter>子视图</Filter>
+    </ClInclude>
+    <ClInclude Include="CSysHotasShowView.h">
+      <Filter>子视图</Filter>
+    </ClInclude>
+    <ClInclude Include="CSysJsbsimShowView.h">
+      <Filter>子视图</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MFCApplication-jsbsim-hotas.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MFCApplication-jsbsim-hotasDoc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MFCApplication-jsbsim-hotasView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HSChartCtrl\ChartAxis.cpp">
+      <Filter>HSChartCtrl</Filter>
+    </ClCompile>
+    <ClCompile Include="HSChartCtrl\ChartAxisLabel.cpp">
+      <Filter>HSChartCtrl</Filter>
+    </ClCompile>
+    <ClCompile Include="HSChartCtrl\ChartBarSerie.cpp">
+      <Filter>HSChartCtrl</Filter>
+    </ClCompile>
+    <ClCompile Include="HSChartCtrl\ChartCandlestickSerie.cpp">
+      <Filter>HSChartCtrl</Filter>
+    </ClCompile>
+    <ClCompile Include="HSChartCtrl\ChartCrossHairCursor.cpp">
+      <Filter>HSChartCtrl</Filter>
+    </ClCompile>
+    <ClCompile Include="HSChartCtrl\ChartCtrl.cpp">
+      <Filter>HSChartCtrl</Filter>
+    </ClCompile>
+    <ClCompile Include="HSChartCtrl\ChartCursor.cpp">
+      <Filter>HSChartCtrl</Filter>
+    </ClCompile>
+    <ClCompile Include="HSChartCtrl\ChartDateTimeAxis.cpp">
+      <Filter>HSChartCtrl</Filter>
+    </ClCompile>
+    <ClCompile Include="HSChartCtrl\ChartDragLineCursor.cpp">
+      <Filter>HSChartCtrl</Filter>
+    </ClCompile>
+    <ClCompile Include="HSChartCtrl\ChartFont.cpp">
+      <Filter>HSChartCtrl</Filter>
+    </ClCompile>
+    <ClCompile Include="HSChartCtrl\ChartGanttSerie.cpp">
+      <Filter>HSChartCtrl</Filter>
+    </ClCompile>
+    <ClCompile Include="HSChartCtrl\ChartGradient.cpp">
+      <Filter>HSChartCtrl</Filter>
+    </ClCompile>
+    <ClCompile Include="HSChartCtrl\ChartGrid.cpp">
+      <Filter>HSChartCtrl</Filter>
+    </ClCompile>
+    <ClCompile Include="HSChartCtrl\ChartLegend.cpp">
+      <Filter>HSChartCtrl</Filter>
+    </ClCompile>
+    <ClCompile Include="HSChartCtrl\ChartLineSerie.cpp">
+      <Filter>HSChartCtrl</Filter>
+    </ClCompile>
+    <ClCompile Include="HSChartCtrl\ChartLogarithmicAxis.cpp">
+      <Filter>HSChartCtrl</Filter>
+    </ClCompile>
+    <ClCompile Include="HSChartCtrl\ChartPointsSerie.cpp">
+      <Filter>HSChartCtrl</Filter>
+    </ClCompile>
+    <ClCompile Include="HSChartCtrl\ChartScrollBar.cpp">
+      <Filter>HSChartCtrl</Filter>
+    </ClCompile>
+    <ClCompile Include="HSChartCtrl\ChartSerie.cpp">
+      <Filter>HSChartCtrl</Filter>
+    </ClCompile>
+    <ClCompile Include="HSChartCtrl\ChartStandardAxis.cpp">
+      <Filter>HSChartCtrl</Filter>
+    </ClCompile>
+    <ClCompile Include="HSChartCtrl\ChartSurfaceSerie.cpp">
+      <Filter>HSChartCtrl</Filter>
+    </ClCompile>
+    <ClCompile Include="HSChartCtrl\ChartTitle.cpp">
+      <Filter>HSChartCtrl</Filter>
+    </ClCompile>
+    <ClCompile Include="HSChartCtrl\ChartXYSerie.cpp">
+      <Filter>HSChartCtrl</Filter>
+    </ClCompile>
+    <ClCompile Include="Simulator.cpp">
+      <Filter>仿真器</Filter>
+    </ClCompile>
+    <ClCompile Include="SimThread.cpp">
+      <Filter>仿真器</Filter>
+    </ClCompile>
+    <ClCompile Include="CMyHotas.cpp">
+      <Filter>HOTAS</Filter>
+    </ClCompile>
+    <ClCompile Include="CMyJSBSim.cpp">
+      <Filter>JSBSim</Filter>
+    </ClCompile>
+    <ClCompile Include="IAT_Point3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IAT_Math.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CSysCtrlView.cpp">
+      <Filter>子视图</Filter>
+    </ClCompile>
+    <ClCompile Include="CSysHotasShowView.cpp">
+      <Filter>子视图</Filter>
+    </ClCompile>
+    <ClCompile Include="CSysJsbsimShowView.cpp">
+      <Filter>子视图</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MFCApplicationjsbsimhotas.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\MFCApplicationjsbsimhotas.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="HSChartCtrl\ChartBalloonLabel.inl">
+      <Filter>HSChartCtrl</Filter>
+    </None>
+    <None Include="HSChartCtrl\ChartLabel.inl">
+      <Filter>HSChartCtrl</Filter>
+    </None>
+    <None Include="HSChartCtrl\ChartPointsArray.inl">
+      <Filter>HSChartCtrl</Filter>
+    </None>
+    <None Include="HSChartCtrl\ChartSerieBase.inl">
+      <Filter>HSChartCtrl</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\MFCApplication-jsbsim-hotasDoc.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\MFCApplication-jsbsim-hotas.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
